@@ -6,7 +6,6 @@
 <br><br>
 
 <h3><code>debjit@github ~ $ whoami</code></h3>
-
-B.Tech ECE @ IEM Kolkata · Embedded · VLSI · AI/ML
+<img src="./info-card.svg" width="490" />
 
 </div>
