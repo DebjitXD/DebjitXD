@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>debjit@github ~ $ ./contributions.sh</code></h3>
+<h3><code>debjit@github ~ $ contributions</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
 <br><br>
