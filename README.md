@@ -3,7 +3,6 @@
 <h3><code>debjit@github ~ $ contributions</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
-<br><br>
 
 <h3><code>debjit@github ~ $ whoami</code></h3>
 <table>
@@ -13,7 +12,6 @@
   </tr>
 </table>
 
-<br><br>
 
 <h3><code>debjit@github ~ $ ls projects/</code></h3>
 
