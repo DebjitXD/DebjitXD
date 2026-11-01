@@ -1,0 +1,24 @@
+name: Update portrait
+
+"on":
+  schedule:
+    - cron: "30 6 * * *"   # every day at 06:30 UTC
+  workflow_dispatch: {}      # lets you run it by hand
+
+permissions:
+  contents: write
+
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install "rembg[cpu]" opencv-python-headless pillow numpy
+      - run: python update_portrait.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh ASCII portrait [skip ci]"
+          file_pattern: "ascii-portrait.svg avatar.sha"
