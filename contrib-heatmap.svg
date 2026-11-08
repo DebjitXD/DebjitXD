@@ -351,29 +351,23 @@ text{font-family:monospace;font-size:12px;fill:#8b949e}
 <rect class="b" x="794" y="26" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.00s;transform-box:fill-box;transform-origin:center"/>
 <rect class="b" x="794" y="42" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.02s;transform-box:fill-box;transform-origin:center"/>
 <rect class="b" x="794" y="58" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.04s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="794" y="74" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.06s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="794" y="90" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="794" y="106" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="810" y="10" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.00s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="810" y="26" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.02s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="794" y="74" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.06s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="794" y="90" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="794" y="106" width="12" height="12" rx="3" fill="#006d32" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="810" y="10" width="12" height="12" rx="3" fill="#39d353" style="animation-delay:1.00s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="810" y="26" width="12" height="12" rx="3" fill="#39d353" style="animation-delay:1.02s;transform-box:fill-box;transform-origin:center"/>
 <rect class="b" x="810" y="42" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.04s;transform-box:fill-box;transform-origin:center"/>
 <rect class="b" x="810" y="58" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.06s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="810" y="74" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="810" y="90" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="810" y="106" width="12" height="12" rx="3" fill="#006d32" style="animation-delay:1.12s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="826" y="10" width="12" height="12" rx="3" fill="#39d353" style="animation-delay:1.02s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="826" y="26" width="12" height="12" rx="3" fill="#39d353" style="animation-delay:1.04s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="826" y="42" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.06s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="826" y="58" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="826" y="74" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="810" y="74" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="810" y="90" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="810" y="106" width="12" height="12" rx="3" fill="#39d353" style="animation-delay:1.12s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="826" y="10" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.02s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="826" y="26" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.04s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="826" y="42" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.06s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="826" y="58" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="826" y="74" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
 <rect class="b" x="826" y="90" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.12s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="826" y="106" width="12" height="12" rx="3" fill="#39d353" style="animation-delay:1.14s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="10" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.04s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="26" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.06s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="42" width="12" height="12" rx="3" fill="#26a641" style="animation-delay:1.08s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="58" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="74" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.12s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="90" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.14s;transform-box:fill-box;transform-origin:center"/>
-<rect class="b" x="842" y="106" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.16s;transform-box:fill-box;transform-origin:center"/>
-<text x="10" y="150">65 contributions in the last year</text>
+<rect class="b" x="826" y="106" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.14s;transform-box:fill-box;transform-origin:center"/>
+<rect class="b" x="842" y="10" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.04s;transform-box:fill-box;transform-origin:center"/>
+<text x="10" y="150">66 contributions in the last year</text>
 </svg>
